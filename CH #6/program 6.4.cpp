@@ -6,7 +6,7 @@ int main()
 	n=1;
 	while(n<=5)
 	{
-		n+++;
+		n++;
 		cout<<n<<" "<<n*n<<endl;
 	}
 	return 0;
